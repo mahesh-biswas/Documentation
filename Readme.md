@@ -67,7 +67,7 @@
 		- Constants.cls
 		- Utility.cls
 		- Wrapper.cls
-> • [click here to play demo](https://eternussolutionscom-my.sharepoint.com/:v:/g/personal/mahesh_biswas_eternussolutions_com/EXQbzQbAvd5PkxNsJOPpM3cBi16ar0FQFOedS-TV0aWLkw?e=N6PZ70)
+> • [click here to play demo](https://eternussolutionscom-my.sharepoint.com/:v:/g/personal/mahesh_biswas_eternussolutions_com/EXQbzQbAvd5PkxNsJOPpM3cBi16ar0FQFOedS-TV0aWLkw?e=N6PZ70)  
 > • [click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EVLUne1tw0tMiRsdMw33z1gB_fKrObCVmOa897u-fqjBdQ?e=HWyP2c)
 
 ### Discounting Rule
