@@ -22,8 +22,7 @@
 			- LayoutPage.page
 		+ Component
 			- LayoutDesigner.component
-![](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EWNedCfbi1dFvzvAGDTX9yEB8FdHXe2sken4I7T9HbOHLw?e=D815Qm)
-[click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EWNedCfbi1dFvzvAGDTX9yEB8FdHXe2sken4I7T9HbOHLw?e=D815Qm)
+> • [click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EWNedCfbi1dFvzvAGDTX9yEB8FdHXe2sken4I7T9HbOHLw?e=D815Qm)
 
 ### Booking Console
 #### Description:
@@ -45,8 +44,7 @@
 			- BookingPage.page
 		[+] Component
 			- BookingConsole.component
-![](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EdNysA2nLVJBluk9LLrxa9YBVGTmEBLs5nAQxVO49HJ-kA?e=gOgiNL)
-[click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EdNysA2nLVJBluk9LLrxa9YBVGTmEBLs5nAQxVO49HJ-kA?e=gOgiNL)
+> • [click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EdNysA2nLVJBluk9LLrxa9YBVGTmEBLs5nAQxVO49HJ-kA?e=gOgiNL)
 
 ### Lead Scoring
 #### Description:
@@ -69,8 +67,8 @@
 		- Constants.cls
 		- Utility.cls
 		- Wrapper.cls
-![](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EVLUne1tw0tMiRsdMw33z1gB_fKrObCVmOa897u-fqjBdQ?e=HWyP2c)
-[click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EVLUne1tw0tMiRsdMw33z1gB_fKrObCVmOa897u-fqjBdQ?e=HWyP2c)
+> • [click here to play demo](https://eternussolutionscom-my.sharepoint.com/:v:/g/personal/mahesh_biswas_eternussolutions_com/EXQbzQbAvd5PkxNsJOPpM3cBi16ar0FQFOedS-TV0aWLkw?e=N6PZ70)
+> • [click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EVLUne1tw0tMiRsdMw33z1gB_fKrObCVmOa897u-fqjBdQ?e=HWyP2c)
 
 ### Discounting Rule
 #### Description:
@@ -95,5 +93,4 @@
 		- Constants.cls
 		- Utility.cls
 		- Wrapper.cls
-![](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EXT_XoCNwKlEoilF4U0OAOkBm04dzwRwdaub-M32k_Jhuw?e=bEWoi1)
-[click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EXT_XoCNwKlEoilF4U0OAOkBm04dzwRwdaub-M32k_Jhuw?e=bEWoi1)
+> • [click to view the relationship diagram](https://eternussolutionscom-my.sharepoint.com/:i:/g/personal/mahesh_biswas_eternussolutions_com/EXT_XoCNwKlEoilF4U0OAOkBm04dzwRwdaub-M32k_Jhuw?e=bEWoi1)
